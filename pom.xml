@@ -98,7 +98,7 @@
             <!-- Useful for testing connectivity to the RabbitMQ process started by this library -->
             <groupId>com.rabbitmq</groupId>
             <artifactId>amqp-client</artifactId>
-            <version>3.6.4</version>
+            <version>4.8.0</version>
             <scope>test</scope>
         </dependency>
 
